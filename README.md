@@ -110,5 +110,4 @@ Both sketches use libraries included with the standard ESP32 Arduino core — no
 
 ## Demo
 
-A working demonstration of this project is available on YouTube:  
-🎥 [Watch the showcase](https://www.youtube.com/watch?v=0XKYOZ96A00)
+A working demonstration of this project is available on YouTube:
